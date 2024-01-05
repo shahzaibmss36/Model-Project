@@ -1,0 +1,2 @@
+class Policeline < ApplicationRecord
+end
